@@ -4,32 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Devops Engineer
 ---------------
 
-**Education and Skills:**
-
-- Degree in Computer Science with a focus on [specific area if applicable].
-- Proficient in DevOps methodologies including Infrastructure as Code, containerization, and orchestration.
-- Experience with a wide range of technologies, specializing in system automation and deployment.
-
-**Certifications:**
-
-- AWS Certified Solutions Architect
-- AWS Certified DevOps Engineer
-- Microsoft Certified: Azure Fundamentals
-
-**Technologies and Tools:**
-
-- **Cloud Platforms:** AWS, Azure, ECS
-- **Infrastructure as Code:** Terraform, Terragrunt
-- **Monitoring/Observability:** New Relic, Grafana, Prometheus, Dynatrace
-- **Messaging Systems:** Kafka, AWS SQS
-- **Containerization & Orchestration:** Docker, Rancher, Harbor
-- **Programming/Scripting:** Node.js, Java, Go, Bash, Python
-- **CI/CD & Version Control:** GitHub Actions, Bitbucket, GitLab
-
-**Additional Information:**
-
-- GitHub: [victornico15](https://github.com/victornico15)
-- Open to networking and knowledge sharing. Feel free to reach out for virtual coffee chats to discuss computer science, DevOps, and more. Here's how to [schedule a chat](#).
+\*\*Education and Skills:\*\* - Degree in Computer Science with a focus on \[specific area if applicable\]. - Proficient in DevOps methodologies including Infrastructure as Code, containerization, and orchestration. - Experience with a wide range of technologies, specializing in system automation and deployment. \*\*Certifications:\*\* - AWS Certified Solutions Architect - AWS Certified DevOps Engineer - Microsoft Certified: Azure Fundamentals \*\*Technologies and Tools:\*\* - \*\*Cloud Platforms:\*\* AWS, Azure, ECS - \*\*Infrastructure as Code:\*\* Terraform, Terragrunt - \*\*Monitoring/Observability:\*\* New Relic, Grafana, Prometheus, Dynatrace - \*\*Messaging Systems:\*\* Kafka, AWS SQS - \*\*Containerization & Orchestration:\*\* Docker, Rancher, Harbor - \*\*Programming/Scripting:\*\* Node.js, Java, Go, Bash, Python - \*\*CI/CD & Version Control:\*\* GitHub Actions, Bitbucket, GitLab \*\*Additional Information:\*\* - GitHub: \[victornico15\](https://github.com/victornico15) - Open to networking and knowledge sharing. Feel free to reach out for virtual coffee chats to discuss computer science, DevOps, and more. Here's how to \[schedule a chat\](#).
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [vnespindola15@gmail.com](mailto:vnespindola15@gmail.com)
@@ -55,7 +30,5 @@ src="https://img.shields.io/github/followers/victornico15?logo=github&style=for-
 <a href="http://www.github.com/victornico15"><img src="https://github-readme-stats.vercel.app/api?username=victornico15&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="victornico15's GitHub stats" /></a>
 
 <a href="http://www.github.com/victornico15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=victornico15&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/victornico15"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=victornico15&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/victornico15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornico15&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
