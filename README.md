@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Nico
 ===================================================================================================================================
 
-Devops Engineer
+## DevOps Engineer
 ---------------
 
 **Education and Skills:**
@@ -25,6 +25,10 @@ Devops Engineer
 - **Containerization & Orchestration:** Docker, Rancher, Harbor
 - **Programming/Scripting:** Node.js, Java, Go, Bash, Python
 - **CI/CD & Version Control:** GitHub Actions, Bitbucket, GitLab
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Additional Information:**
 
