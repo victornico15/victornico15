@@ -29,10 +29,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 **Additional Information:**
 
 - GitHub: [victornico15](https://github.com/victornico15)
-- Open to networking and knowledge sharing. Feel free to reach out for virtual coffee chats to discuss computer science, DevOps, and more. Here's how to [schedule a chat](#).
+- Open to networking and knowledge sharing. Feel free to reach out for virtual coffee chats to discuss computer science, DevOps, and more.
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [vnespindola15@gmail.com](mailto:vnespindola15@gmail.com)
 * 🚀  I'm currently working on [Matera](http://https://www.matera.com.br/)
 * 🧠  I'm learning Terragrunt, MLOps & Helm
 * 🤝  I'm open to collaborating on Devops Projects
