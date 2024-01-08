@@ -6,7 +6,7 @@ Devops Engineer
 
 **Education and Skills:**
 
-- Degree in Computer Science with a focus on [specific area if applicable].
+- Degree in Computer Science.
 - Proficient in DevOps methodologies including Infrastructure as Code, containerization, and orchestration.
 - Experience with a wide range of technologies, specializing in system automation and deployment.
 
@@ -34,7 +34,7 @@ Devops Engineer
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [vnespindola15@gmail.com](mailto:vnespindola15@gmail.com)
 * 🚀  I'm currently working on [Matera](http://https://www.matera.com.br/)
-* 🧠  I'm learning Terragrunt & Helm
+* 🧠  I'm learning Terragrunt, MLOps & Helm
 * 🤝  I'm open to collaborating on Devops Projects
 
 <a href="https://www.github.com/victornico15" target="_blank" rel="noreferrer"><img
