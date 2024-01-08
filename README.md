@@ -4,7 +4,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Devops Engineer
 ---------------
 
-\*\*Education and Skills:\*\* - Degree in Computer Science with a focus on \[specific area if applicable\]. - Proficient in DevOps methodologies including Infrastructure as Code, containerization, and orchestration. - Experience with a wide range of technologies, specializing in system automation and deployment. \*\*Certifications:\*\* - AWS Certified Solutions Architect - AWS Certified DevOps Engineer - Microsoft Certified: Azure Fundamentals \*\*Technologies and Tools:\*\* - \*\*Cloud Platforms:\*\* AWS, Azure, ECS - \*\*Infrastructure as Code:\*\* Terraform, Terragrunt - \*\*Monitoring/Observability:\*\* New Relic, Grafana, Prometheus, Dynatrace - \*\*Messaging Systems:\*\* Kafka, AWS SQS - \*\*Containerization & Orchestration:\*\* Docker, Rancher, Harbor - \*\*Programming/Scripting:\*\* Node.js, Java, Go, Bash, Python - \*\*CI/CD & Version Control:\*\* GitHub Actions, Bitbucket, GitLab \*\*Additional Information:\*\* - GitHub: \[victornico15\](https://github.com/victornico15) - Open to networking and knowledge sharing. Feel free to reach out for virtual coffee chats to discuss computer science, DevOps, and more. Here's how to \[schedule a chat\](#).
+**Education and Skills:**
+
+- Degree in Computer Science with a focus on [specific area if applicable].
+- Proficient in DevOps methodologies including Infrastructure as Code, containerization, and orchestration.
+- Experience with a wide range of technologies, specializing in system automation and deployment.
+
+**Certifications:**
+
+- AWS Certified Solutions Architect
+- AWS Certified DevOps Engineer
+- Microsoft Certified: Azure Fundamentals
+
+**Technologies and Tools:**
+
+- **Cloud Platforms:** AWS, Azure, ECS
+- **Infrastructure as Code:** Terraform, Terragrunt
+- **Monitoring/Observability:** New Relic, Grafana, Prometheus, Dynatrace
+- **Messaging Systems:** Kafka, AWS SQS
+- **Containerization & Orchestration:** Docker, Rancher, Harbor
+- **Programming/Scripting:** Node.js, Java, Go, Bash, Python
+- **CI/CD & Version Control:** GitHub Actions, Bitbucket, GitLab
+
+**Additional Information:**
+
+- GitHub: [victornico15](https://github.com/victornico15)
+- Open to networking and knowledge sharing. Feel free to reach out for virtual coffee chats to discuss computer science, DevOps, and more. Here's how to [schedule a chat](#).
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [vnespindola15@gmail.com](mailto:vnespindola15@gmail.com)
