@@ -12,8 +12,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 **Certifications:**
 
-- AWS Certified Solutions Architect
-- AWS Certified DevOps Engineer
+- AWS Certified Cloud Practioner
+- AWS Certified Sysops Administrator
 - Microsoft Certified: Azure Fundamentals
 
 **Technologies and Tools:**
