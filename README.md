@@ -14,13 +14,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - AWS Certified Cloud Practioner
 - AWS Certified Sysops Administrator
-- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure Fundamentals  
 
 **Technologies and Tools:**
 
-- **Cloud Platforms:** AWS, Azure, ECS
-- **Infrastructure as Code:** Terraform, Terragrunt
-- **Monitoring/Observability:** New Relic, Grafana, Prometheus, Dynatrace
+- **Cloud Platforms:** AWS, Azure, GCP
+- **Infrastructure as Code:** Terraform, Terragrunt, Pulumi, Crossplane
+- **Monitoring/Observability:** New Relic, Grafana, Prometheus, Dynatrace,DD.
 - **Messaging Systems:** Kafka, AWS SQS
 - **Containerization & Orchestration:** Docker, Rancher, Harbor
 - **Programming/Scripting:** Node.js, Java, Go, Bash, Python
