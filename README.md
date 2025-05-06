@@ -32,7 +32,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Open to networking and knowledge sharing. Feel free to reach out for virtual coffee chats to discuss computer science, DevOps, and more.
 
 * 🌍  I'm based in Brazil
-* 🚀  I'm currently working on [CRMBONUS](https://www.crmbonus.com.br/)
 * 🧠  I'm learning Terragrunt, MLOps & Helm
 * 🤝  I'm open to collaborating on Devops Projects
 
